@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/software/mysql-jdbc.jar"/>
+	<classpathentry kind="lib" path="E:/software/javamaillib/dsn.jar"/>
+	<classpathentry kind="lib" path="E:/software/javamaillib/gimap.jar"/>
+	<classpathentry kind="lib" path="E:/software/javamaillib/imap.jar"/>
+	<classpathentry kind="lib" path="E:/software/javamaillib/mailapi.jar"/>
+	<classpathentry kind="lib" path="E:/software/javamaillib/pop3.jar"/>
+	<classpathentry kind="lib" path="E:/software/javamaillib/smtp.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
